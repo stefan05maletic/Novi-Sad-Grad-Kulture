@@ -1,0 +1,108 @@
+*{
+    color: white!important;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.pozadina1{
+    background-color: darkblue;
+}
+.pozadina2{
+    background-color: cornflowerblue;
+}
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-link{
+    color: white;
+    font-size: 25px;
+}
+.nav-link:hover{
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
+
+.naslov{
+    font-size: 120px;
+}
+
+.podnaslov{
+    font-size: 60px;
+}
+.card{
+    border: white 1px solid;
+    padding: 0px;
+}
+
+.footer{
+    text-align: center;
+    padding: 0px;
+}
+
+svg{
+    padding: 10px 5px;
+}
+
+.galerija{
+    width: 100%;
+    height: 100%;
+}
+
+.desnipeding{
+    padding-right: 0px;
+}
+.levipeding{
+    padding-left: 0px;
+}
+.card-title{
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 5px;
+}
+.card-text{
+    text-align: left;
+    font-size: 25px;
+    padding: 5px
+}
+.btn{
+    font-size: 25px;
+    text-align: center;
+}
+.btn:hover{
+    font-weight: bold;
+    background-color: darkblue;
+    border: 1px solid white;
+}
+.karticevelike{
+    height: 400px;
+}
+.karticemale{
+    height: 300px;
+}
+
+.okvir{
+    border: 3px solid white;
+}
+.textnalinkovima h1{
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.textnalinkovima p{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+.textnalinkovima h3{
+    text-align: left;
+    padding: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+iframe{
+    padding: 30px;
+}
